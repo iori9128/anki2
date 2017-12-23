@@ -1,0 +1,19 @@
+[1514015970] collection.py:__init__(): C:\Users\mouse\AppData\Roaming\Anki2\ユーザー 1\collection.anki2, 2.0.48
+[1514015971] sched.py:_updateCutoff(): 0, 1514055600
+[1514016041] cards.py:flush(): {'crt': 1514016041, 'data': '', 'did': 1, 'due': 1, 'factor': 0, 'flags': 0, 'id': 1514016041241L, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1514016041, 'nid': 1514015987673L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1514016049] sched.py:getCard(): {'data': u'', 'did': 1, 'due': 1, 'factor': 0, 'flags': 0, 'id': 1514016041241L, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1514016041, 'nid': 1514015987673L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1514016067] sched.py:getCard(): {'data': u'', 'did': 1, 'due': 1, 'factor': 0, 'flags': 0, 'id': 1514016041241L, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1514016041, 'nid': 1514015987673L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1514016079] sched.py:answerCard(): 
+[1514016079] cards.py:flushSched(): {'data': u'', 'did': 1, 'due': 1514016704, 'factor': 0, 'flags': 0, 'id': 1514016041241L, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1514016079, 'nid': 1514015987673L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1, 'wasNew': True}
+[1514016079] sched.py:getCard(): {'data': u'', 'did': 1, 'due': 1514016704, 'factor': 0, 'flags': 0, 'id': 1514016041241L, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1514016079, 'nid': 1514015987673L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1514016084] sched.py:answerCard(): 
+[1514016084] cards.py:flushSched(): {'data': u'', 'did': 1, 'due': 1, 'factor': 2500, 'flags': 0, 'id': 1514016041241L, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1514016084, 'nid': 1514015987673L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1, 'wasNew': False}
+[1514016274] sched.py:emptyDyn(): []
+[1514016274] sched.py:_fillDyn(): 1514016274276L, [1514016041241L]
+[1514016275] sched.py:getCard(): {'data': u'', 'did': 1514016274276L, 'due': -100000, 'factor': 2500, 'flags': 0, 'id': 1514016041241L, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1514016084, 'nid': 1514015987673L, 'odid': 1, 'odue': 1, 'ord': 0, 'queue': 0, 'reps': 2, 'type': 2, 'usn': -1}
+[1514016561] collection.py:__init__(): C:\Users\mouse\AppData\Roaming\Anki2\ユーザー 1\collection.anki2, 2.0.48
+[1514016561] sched.py:_updateCutoff(): 0, 1514055600
+[1514016565] sched.py:getCard(): {'data': u'', 'did': 1514016274276L, 'due': -100000, 'factor': 2500, 'flags': 0, 'id': 1514016041241L, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1514016084, 'nid': 1514015987673L, 'odid': 1, 'odue': 1, 'ord': 0, 'queue': 0, 'reps': 2, 'type': 2, 'usn': -1}
+[1514016572] sched.py:answerCard(): 
+[1514016572] cards.py:flushSched(): {'data': u'', 'did': 1, 'due': 1, 'factor': 2500, 'flags': 0, 'id': 1514016041241L, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1514016572, 'nid': 1514015987673L, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1, 'wasNew': False}
+[1514016580] sched.py:emptyDyn(): []
